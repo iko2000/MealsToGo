@@ -24,22 +24,3 @@ export default RestaurantScreen;
 
 
 
-const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0,
-    },
-    upcontainer: {
-      width: "100%",
-      height: "10%",
-      backgroundColor: "purple", 
-      padding: 6,
-    },
-    downcontainer: {
-      width: "100%",
-      height: "90%",
-      backgroundColor: "white",
-    },
-  
-  });
-  

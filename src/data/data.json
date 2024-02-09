@@ -1,0 +1,30 @@
+
+[
+    {
+      "name": "Restaurant A",
+      "address": "123 Main St, City, Country",
+      "rating": 4.2,
+      "open": true,
+      "imagepath": "../../assets/resto1.jpg",
+      
+    },
+    {
+      "name": "Cafe B",
+      "address": "456 Elm St, City, Country",
+      "rating": 3.8,
+      "open": false,
+      "imagepath": "https://picsum.photos/700"
+    },
+    {
+      "name": "Pizzeria C",
+      "address": "789 Oak St, City, Country",
+      "rating": 4.5,
+      "open": true
+    },
+    {
+      "name": "Diner D",
+      "address": "321 Maple St, City, Country",
+      "rating": 4.0,
+      "open": false
+    }
+  ]
